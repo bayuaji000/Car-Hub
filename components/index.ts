@@ -4,16 +4,16 @@ import CustomFilter from "./CustomFilter";
 import Footer from "./Footer";
 import NavBar from "./Navbar";
 import ShowMore from "./ShowMore";
-import Searchbar from "./Searchbar";
+import SearchBar from "./Searchbar";
 import Hero from "./Hero";
 
 export {
-    Hero,
-    CarCard,
-    CustomButton,
-    CustomFilter,
-    Footer,
-    NavBar,
-    ShowMore,
-    Searchbar,
+  Hero,
+  CarCard,
+  CustomButton,
+  CustomFilter,
+  Footer,
+  NavBar,
+  ShowMore,
+  SearchBar,
 };
